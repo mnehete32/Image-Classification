@@ -5,9 +5,9 @@ In this project we had to build and run a Convolutional Neural Network using Ten
 
 Topics covered
 
-Deep Neural Networks
-Convolutional Neural Networks (CNN)
-Max pooling
-Dropout
-TensorFlow
-Cloud Computing
+Deep Neural Networks,
+Convolutional Neural Networks (CNN),
+Max pooling,
+Dropout,
+TensorFlow,
+Cloud Computing.
